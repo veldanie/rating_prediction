@@ -1,0 +1,26 @@
+Variable,Id
+Fecha de corte (LTM),Fecha
+Ticker,Ticker
+Emisor,Emisor
+Ut. Oper. / Activo,Var1
+"Mrg. EBITDA
+3 Meses",Var2
+Deuda Neta / EBITDA,Var3
+Deuda CP / Deuda Total,Var4
+Deuda Bruta / Activo,Var5
+"EBITDA
+/ Intereses",Var6
+"EBITDA
+/ ST Debt",Var7
+Activo CP / Pasivo CP,Var8
+"?% 1Yr 
+EBITDA",Var9
+"Net
+Margin",Var10
+"Asset
+Turnover",Var11
+"Leverage
+Asset/Equity",Var12
+ROE,Var13
+"S&P
+Rating",Var14
