@@ -12,7 +12,7 @@ def is_string(s):
         return True
 
 
-def model_training(data, feat_key, le, remove_nan, perc_train_size, output_file, model_file, sov_encoder_file):
+def model_training(data, feat_key, le, remove_nan, perc_train_size, output_file, model_file, sov_encoder_file, n_estimators = 500, min_samples_leaf = 1):
 
     #import seaborn as sns
     import numpy as np
@@ -85,7 +85,7 @@ def model_training(data, feat_key, le, remove_nan, perc_train_size, output_file,
     print('')
 
     # Model fitting:
-    clf = RandomForestClassifier(n_estimators = 500, max_features = "auto", min_samples_leaf = 1)
+    clf = RandomForestClassifier(n_estimators = n_estimators, max_features = "auto", min_samples_leaf = min_samples_leaf)
     clf.fit(X_train, y_train)
 
     # Save model
