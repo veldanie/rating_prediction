@@ -1,0 +1,33 @@
+Feature,Key
+"Leverage (ROE / ROA)
+(Act. / Pat. )",Ratio1
+Equity + Allowances Losses / Loans,Ratio2
+Productive Assets / Int. Bearing Liab.,Ratio3
+Allowances / G. Loans,Ratio4
+Prov. Exp. /  Gross Loans,Ratio5
+NII / Productive Assets,Ratio6
+Non-Interest Expenses / Total Income,Ratio7
+Non-Interest Income / Total Income,Ratio8
+Return on Assets,Ratio9
+Net Margin del Trimestre,Ratio10
+Asset Turnover Anualizado,Ratio11
+Return on Equity,Ratio12
+Liquid Assets / Total Assets,Ratio13
+Total Gross Loans / Total Deposits,Ratio14
+Total Deposits / Total Liabilities,Ratio15
+"Leverage (ROE / ROA)
+(Act. / Pat. ) Prom. LTM",Ratio16
+Equity + Allowances Losses / Loans Prom. LTM,Ratio17
+Productive Assets / Int. Bearing Liab. Prom. LTM,Ratio18
+Allowances / G. Loans Prom. LTM,Ratio19
+Prov. Exp. /  Gross Loans Prom. LTM,Ratio20
+NII / Productive Assets Prom. LTM,Ratio21
+Non-Interest Expenses / Total Income Prom. LTM,Ratio22
+Non-Interest Income / Total Income Prom. LTM,Ratio23
+Return on Assets Prom. LTM,Ratio24
+Net Margin del Trimestre Prom. LTM,Ratio25
+Asset Turnover Anualizado Prom. LTM,Ratio26
+Return on Equity Prom. LTM,Ratio27
+Liquid Assets / Total Assets Prom. LTM,Ratio28
+Total Gross Loans / Total Deposits Prom. LTM,Ratio29
+Total Deposits / Total Liabilities Prom. LTM,Ratio30
