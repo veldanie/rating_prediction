@@ -1,32 +1,32 @@
 Feature,Key
- Leverage (ROE / ROA),Ratio1
- Equity + Allowances Losses / Loans,Ratio2
- Productive Assets / Int. Bearing Liab.,Ratio3
- Allowances / G. Loans,Ratio4
- Prov. Exp. /  Gross Loans (Anualizado),Ratio5
- NII / Productive Assets (Trimestre Anualizado),Ratio6
- Non-Interest Expenses / Total Income,Ratio7
- Non-Interest Income / Total Income,Ratio8
- Return on Assets (Trimestre Anualizado),Ratio9
- Net Margin del Trimestre,Ratio10
- Asset Turnover Anualizado,Ratio11
- Return on Equity,Ratio12
- Liquid Assets / Total Assets,Ratio13
- Total Gross Loans / Total Deposits,Ratio14
- Total Deposits / Total Liabilities,Ratio15
- Leverage (ROE / ROA) LTM,Ratio16
- Equity + Allowances Losses / Loans LTM,Ratio17
- Productive Assets / Int. Bearing Liab. LTM,Ratio18
- Allowances / G. Loans LTM,Ratio19
- Prov. Exp. /  Gross Loans (Anualizado) LTM,Ratio20
- NII / Productive Assets (Trimestre Anualizado) LTM,Ratio21
- Non-Interest Expenses / Total Income LTM,Ratio22
- Non-Interest Income / Total Income LTM,Ratio23
- Return on Assets (Trimestre Anualizado) LTM,Ratio24
- Net Margin del Trimestre LTM,Ratio25
- Asset Turnover Anualizado LTM,Ratio26
- Return on Equity LTM,Ratio27
- Liquid Assets / Total Assets LTM,Ratio28
- Total Gross Loans / Total Deposits LTM,Ratio29
- Total Deposits / Total Liabilities LTM,Ratio30
-Rating Soberano,SovereignRating
+ROAE / ROAA,Ratio1
+(Total Patrimonio + Interés Minoritario + Provisiones) / Cartera Bruta,Ratio2
+(Cartera Bruta + Caja & Eq. + Inversiones) / Pasivos con Costo,Ratio3
+Provisiones / Cartera Bruta,Ratio4
+Gasto en Provisiones / Cartera Bruta,Ratio5
+Ingreso Neto por Intereses / (Cartera Bruta + Caja & Eq. + Inversiones) ,Ratio6
+Gasto no financiero / Ingreso Total,Ratio7
+Ingreso No Financiero / Ingreso Total,Ratio8
+ROAA,Ratio9
+Utilidad Neta / Ingreso Total,Ratio10
+Ingreso Total / Total Activo x 4,Ratio11
+ROAE,Ratio12
+(Caja & Eq. + Inversiones) / Total Activo,Ratio13
+Caretera Bruta / Depósitos Totales,Ratio14
+Depósitos Totales / Total Pasivo,Ratio15
+ROAE / ROAA PROM. LTM,Ratio16
+(Total Patrimonio + Interés Minoritario + Provisiones) / Cartera Bruta PROM. LTM,Ratio17
+(Cartera Bruta + Caja & Eq. + Inversiones) / Pasivos con Costo PROM. LTM,Ratio18
+Provisiones / Cartera Bruta PROM. LTM,Ratio19
+Gasto en Provisiones / Cartera Bruta PROM. LTM,Ratio20
+Ingreso Neto por Intereses / (Cartera Bruta + Caja & Eq. + Inversiones)  PROM. LTM,Ratio21
+Gasto no financiero / Ingreso Total PROM. LTM,Ratio22
+Ingreso No Financiero / Ingreso Total PROM. LTM,Ratio23
+ROAA PROM. LTM,Ratio24
+Utilidad Neta / Ingreso Total PROM. LTM,Ratio25
+Ingreso Total / Total Activo x 4 PROM. LTM,Ratio26
+ROAE PROM. LTM,Ratio27
+(Caja & Eq. + Inversiones) / Total Activo PROM. LTM,Ratio28
+Caretera Bruta / Depósitos Totales PROM. LTM,Ratio29
+Depósitos Totales / Total Pasivo PROM. LTM,Ratio30
+Rating Soberano País de Origen Deuda LP Moneda Extranjera,SovereignRating
